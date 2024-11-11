@@ -1,4 +1,4 @@
-# Advanced Stock Analysis
+# Advanced Stocks Analysis
 
 This repository contains a comprehensive stock analysis project utilizing Python, focusing on data extraction, visualization, and predictive analytics. The code applies multiple data science and machine learning techniques to gain insights into stock performance, evaluate trends, and make informed predictions. This project is ideal for financial analysts, data scientists, and those interested in quantitative finance.
 
